@@ -533,7 +533,7 @@
     "id": "u_57",
     "username": "2414101",
     "password_hash": "$2a$10$As4qgxBqlnQCSxkoHWjyl.1rLc28rqiVW1KmhqE6.F4RkfokOWxMS",
-    "role": "user",
+    "role": "reviewer",
     "real_name": "张弘卓",
     "student_id": "2414101",
     "created_at": "2025-11-24T02:05:53.946Z",
@@ -993,7 +993,7 @@
     "id": "u_98",
     "username": "王禹阳",
     "password_hash": "$2a$10$UyfU.W07Sfz4I.JWzIzXF.99Kfz3AGxcLMTSw.tkR61yRxC0HMB/a",
-    "role": "user",
+    "role": "reviewer",
     "real_name": "王禹阳",
     "student_id": "2510615",
     "created_at": "2026-04-17T02:23:19.687Z",
@@ -1043,7 +1043,7 @@
     "id": "u_105",
     "username": "棹月",
     "password_hash": "$2a$10$LENKWb5p66fCv5HONNdTDuMSKwUvm/0aKtp0HPwgvjwGed1AvKfRy",
-    "role": "user",
+    "role": "reviewer",
     "real_name": "任冠宇",
     "student_id": "2513550",
     "created_at": "2026-05-12T14:20:46.177Z",
@@ -1097,6 +1097,76 @@
     "real_name": "刘梦雅",
     "student_id": "1120240300",
     "created_at": "2026-06-12T02:08:20.838Z",
+    "profile_completed": true
+  },
+  {
+    "id": "u_111",
+    "username": "2314255",
+    "password_hash": "$2a$10$X1j5yqZnh14YCEpgoBAAW.uS.9yztFPnqc/77hmtfT3sXaUH.PkrC",
+    "role": "user",
+    "real_name": "",
+    "student_id": "",
+    "created_at": "2026-09-04T10:11:42.174Z",
+    "profile_completed": false
+  },
+  {
+    "id": "u_112",
+    "username": "怡然",
+    "password_hash": "$2a$10$vtSi8Nzw.viUkeiogI/DgOzQS/SFPZ/6yYizlzRZwVSdvChTutwba",
+    "role": "reviewer",
+    "real_name": "施嘉怡",
+    "student_id": "2511898",
+    "created_at": "2026-09-09T03:47:05.268Z",
+    "profile_completed": true
+  },
+  {
+    "id": "u_113",
+    "username": "12345",
+    "password_hash": "$2a$10$HfW3BFGycM.YyRlRhLC7m.X3JUgoxgCAsHmSjPBH46Pw/hMAnwxzm",
+    "role": "reviewer",
+    "real_name": "庄韶凯",
+    "student_id": "2314255",
+    "created_at": "2026-09-09T04:00:49.331Z",
+    "profile_completed": true
+  },
+  {
+    "id": "u_114",
+    "username": "沈雨橦",
+    "password_hash": "$2a$10$2hO891/Rra3aDa9hv.x6M.c6GiII5O7aczVMXjwH8QnuZLD.G/naC",
+    "role": "reviewer",
+    "real_name": "沈雨橦",
+    "student_id": "2511941",
+    "created_at": "2026-09-09T04:57:21.061Z",
+    "profile_completed": true
+  },
+  {
+    "id": "u_115",
+    "username": "鱼",
+    "password_hash": "$2a$10$aGtA0Qo3d0H7jEkXXtzytO2AMIxaXDCuJO3hukYYibtdkf7XrB/3y",
+    "role": "reviewer",
+    "real_name": "李娜",
+    "student_id": "2412071",
+    "created_at": "2026-09-09T05:03:05.301Z",
+    "profile_completed": true
+  },
+  {
+    "id": "u_116",
+    "username": "于伟滨(2310787)",
+    "password_hash": "$2a$10$tYcXd06OgSMZJxOAJNba3Ozyvvh5cQxBWypq7Kbsl5j6SQuRUjRl6",
+    "role": "reviewer",
+    "real_name": "于伟滨",
+    "student_id": "2310787",
+    "created_at": "2026-09-09T14:35:32.389Z",
+    "profile_completed": true
+  },
+  {
+    "id": "u_117",
+    "username": "13302148931",
+    "password_hash": "$2a$10$Cc/S/TVkAjhi0eURzPMOZuHaCKT3ae0rQpH170bVNBl7rqd8wqa0q",
+    "role": "reviewer",
+    "real_name": "王婉嫣",
+    "student_id": "2511586",
+    "created_at": "2026-09-10T23:57:38.411Z",
     "profile_completed": true
   }
 ]
