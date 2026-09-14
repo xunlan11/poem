@@ -1100,16 +1100,6 @@
     "profile_completed": true
   },
   {
-    "id": "u_111",
-    "username": "2314255",
-    "password_hash": "$2a$10$X1j5yqZnh14YCEpgoBAAW.uS.9yztFPnqc/77hmtfT3sXaUH.PkrC",
-    "role": "user",
-    "real_name": "",
-    "student_id": "",
-    "created_at": "2026-09-04T10:11:42.174Z",
-    "profile_completed": false
-  },
-  {
     "id": "u_112",
     "username": "怡然",
     "password_hash": "$2a$10$vtSi8Nzw.viUkeiogI/DgOzQS/SFPZ/6yYizlzRZwVSdvChTutwba",
@@ -1167,6 +1157,16 @@
     "real_name": "王婉嫣",
     "student_id": "2511586",
     "created_at": "2026-09-10T23:57:38.411Z",
+    "profile_completed": true
+  },
+  {
+    "id": "u_111",
+    "username": "张梦瑶",
+    "password_hash": "$2a$10$P0xyfnjmsz9njNonkB/SxedUzpzThCKPdGbi.H/YqLSL5OennrQba",
+    "role": "user",
+    "real_name": "张梦瑶",
+    "student_id": "2511669",
+    "created_at": "2026-09-13T05:24:55.981Z",
     "profile_completed": true
   }
 ]

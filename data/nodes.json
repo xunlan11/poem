@@ -297088,7 +297088,7 @@
           "reviewedByName": "张恒硕(2212266)",
           "reviewedBy": "张恒硕(2212266)",
           "reviewedAt": "2025-11-18",
-          "updatedAt": "2026-09-10"
+          "updatedAt": "2026-09-11"
         },
         "content": "",
         "annotations": [],
@@ -312771,11 +312771,22 @@
           "reviewedByName": "陈思润(2510572)",
           "reviewedBy": "陈思润(2510572)",
           "reviewedAt": "2026-05-13",
-          "updatedAt": "2026-05-13"
+          "updatedAt": "2026-09-14"
         },
         "content": "",
         "annotations": [],
-        "links": [],
+        "links": [
+          {
+            "field": "fields.repWorks",
+            "start": 13,
+            "end": 19,
+            "text": "《归园田居》",
+            "targetId": "W00651",
+            "targetName": "归园田居（其一）",
+            "targetType": "W",
+            "placeholder": false
+          }
+        ],
         "fields": {
           "common": "陶渊明",
           "name": "陶潜",
@@ -327889,11 +327900,32 @@
           "reviewedByName": "张欣阳(2413707)",
           "reviewedBy": "张欣阳(2413707)",
           "reviewedAt": "2026-06-24",
-          "updatedAt": "2026-06-24"
+          "updatedAt": "2026-09-12"
         },
         "content": "",
         "annotations": [],
-        "links": [],
+        "links": [
+          {
+            "field": "fields.relations[1].人物",
+            "start": 0,
+            "end": 2,
+            "text": "曹操",
+            "targetId": "C00013",
+            "targetName": "曹操",
+            "targetType": "C",
+            "placeholder": false
+          },
+          {
+            "field": "fields.repWorks",
+            "start": 5,
+            "end": 10,
+            "text": "《七哀诗》",
+            "targetId": "W00366",
+            "targetName": "七哀诗三首（王粲其一）",
+            "targetType": "W",
+            "placeholder": false
+          }
+        ],
         "fields": {
           "common": "王粲",
           "name": "王粲",
@@ -370268,7 +370300,7 @@
     }
   },
   "L": {
-    "lastId": 3,
+    "lastId": 6,
     "items": {
       "L00001": {
         "id": "L00001",
@@ -370544,6 +370576,121 @@
           ],
           "rareChars": [
             "葑纵（纵横）踪茸蛩邛筇跫供（供给）蚣喁。"
+          ]
+        }
+      },
+      "L00004": {
+        "id": "L00004",
+        "type": "L",
+        "name": "上平三江",
+        "meta": {
+          "createdById": "u_12",
+          "createdByName": "杨烨亭(2511420)",
+          "createdBy": "杨烨亭(2511420)",
+          "createdAt": "2026-09-12",
+          "reviewedById": "",
+          "reviewedByName": "",
+          "reviewedBy": "",
+          "reviewedAt": "",
+          "updatedAt": "2026-09-12"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "sub": "yunbu",
+          "subLabel": "韵部",
+          "title": "上平三江",
+          "rhymeBook": "pingshui"
+        },
+        "extra": {
+          "reviewDuration": "",
+          "reviewStatus": "pending",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "commonChars": [
+            "江缸窗邦降（降伏）双泷庞撞。"
+          ],
+          "rareChars": [
+            "豇扛杠腔梆桩幢跫（冬韵同）。"
+          ]
+        }
+      },
+      "L00005": {
+        "id": "L00005",
+        "type": "L",
+        "name": "上平四支",
+        "meta": {
+          "createdById": "u_12",
+          "createdByName": "杨烨亭(2511420)",
+          "createdBy": "杨烨亭(2511420)",
+          "createdAt": "2026-09-13",
+          "reviewedById": "",
+          "reviewedByName": "",
+          "reviewedBy": "",
+          "reviewedAt": "",
+          "updatedAt": "2026-09-13"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "sub": "yunbu",
+          "subLabel": "韵部",
+          "title": "上平四支",
+          "rhymeBook": "pingshui"
+        },
+        "extra": {
+          "reviewDuration": "",
+          "reviewStatus": "pending",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "commonChars": [
+            "枝肢移（竹移）为（施为）垂吹陂碑奇宜仪皮儿离施知驰池规危夷师姿迟龟眉悲之芝时诗棋旗辞词期祠基疑姬丝司葵医帷思滋持随痴维。"
+          ],
+          "rareChars": [
+            "卮麋螭麾墀弥慈遗肌脂雌披嬉尸狸炊湄篱兹差（参差）疲茨卑亏蕤骑（跨马）歧岐谁斯澌私窥熙欺疵赀羁迤彝髭颐资糜饥衰锥姨夔祗涯（佳、麻韵同）伊追蓍缁萁箕椎罴篪萎匙脾坻嶷治（治国）骊綦怡尼漪牺饴而鸱推（灰韵同）陲魑锤缡璃羸帔蘼芪畸羲曦欹猗崎崖筛狮蛳绥虽粢瓷嫠痍惟唯机耆逵岿丕毗枇貔楣霉辎蚩嗤媸飔埘莳鲥鹚笞漓贻禧噫其琪祺麒栀鹂累踟琵祁骐訾咨睢馗胝鳍迤蛇（委蛇）陴淇丽（地名）厮氏（月氏）僖嘻琦怩熹孜罹磁痿隋逶郦嵋椅（音漪",
+            "木名）。"
+          ]
+        }
+      },
+      "L00006": {
+        "id": "L00006",
+        "type": "L",
+        "name": "上平五微",
+        "meta": {
+          "createdById": "u_12",
+          "createdByName": "杨烨亭(2511420)",
+          "createdBy": "杨烨亭(2511420)",
+          "createdAt": "2026-09-14",
+          "reviewedById": "",
+          "reviewedByName": "",
+          "reviewedBy": "",
+          "reviewedAt": "",
+          "updatedAt": "2026-09-14"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "sub": "yunbu",
+          "subLabel": "韵部",
+          "title": "上平五微",
+          "rhymeBook": "pingshui"
+        },
+        "extra": {
+          "reviewDuration": "",
+          "reviewStatus": "pending",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "commonChars": [
+            "微薇晖辉徽挥韦围帏违闱霏菲（芳菲）妃飞非扉肥威祈畿机几（微也、如见几）讥玑稀希衣（衣服）依归饥（支韵同）。"
+          ],
+          "rareChars": [
+            "矶欷诽绯晞葳巍沂圻颀。"
           ]
         }
       }
