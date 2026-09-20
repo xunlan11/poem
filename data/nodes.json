@@ -61644,7 +61644,7 @@
           "reviewedByName": "杨谦(2120250642)",
           "reviewedBy": "杨谦(2120250642)",
           "reviewedAt": "2025-12-04",
-          "updatedAt": "2025-12-04"
+          "updatedAt": "2026-09-18"
         },
         "content": "千里莺啼绿映红，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
         "annotations": [
@@ -61653,6 +61653,7 @@
             "end": 12,
             "text": "郭",
             "note": "外城。此处指城镇。",
+            "field": "content",
             "linkKey": "anno-11-12-mil30v0t1"
           },
           {
@@ -61660,6 +61661,7 @@
             "end": 14,
             "text": "酒旗",
             "note": "一种挂在门前以作为酒店标记的小旗。",
+            "field": "content",
             "linkKey": "anno-12-14-mil30zf52"
           },
           {
@@ -61667,6 +61669,7 @@
             "end": 19,
             "text": "南朝",
             "note": "指先后与北朝对峙的宋、齐、梁、陈政权。",
+            "field": "content",
             "linkKey": "anno-17-19-mil3150b3"
           },
           {
@@ -61674,6 +61677,7 @@
             "end": 24,
             "text": "四百八十寺",
             "note": "南朝皇帝和大官僚好佛，在京城（今南京）大建佛寺。《南史·循吏·郭祖深传》：“都下佛寺五百余所。”这里说四百八十寺，是虚数。",
+            "field": "content",
             "linkKey": "anno-19-24-mil31aub4"
           },
           {
@@ -61681,6 +61685,7 @@
             "end": 29,
             "text": "楼台",
             "note": "楼阁亭台。此处指寺院建筑。",
+            "field": "content",
             "linkKey": "anno-27-29-mil31gjn5"
           },
           {
@@ -61688,12 +61693,25 @@
             "end": 31,
             "text": "烟雨",
             "note": "细雨蒙蒙，如烟如雾。",
+            "field": "content",
             "linkKey": "anno-29-31-mil31ksm6"
           }
         ],
-        "links": [],
+        "links": [
+          {
+            "field": "fields.rhyme",
+            "start": 0,
+            "end": 2,
+            "text": "一东",
+            "targetId": "L00002",
+            "targetName": "上平一东",
+            "targetType": "L",
+            "placeholder": false
+          }
+        ],
         "fields": {
           "title": "江南春",
+          "otherNames": "",
           "author": "杜牧",
           "origin": "《全唐诗》",
           "form": "近体",
@@ -61746,7 +61764,8 @@
               "出处": "何文焕《历代诗话考索》",
               "内容": "“千里莺啼绿映红”云云，此杜牧《江南春》诗也。升庵谓“千”应作“十”。盖“千里”已听不着、看不见矣，何所云“莺啼绿映红”耶？余谓即作“十里”，亦未必听得着、看得见。题云《江南春》，江南方广千里。千里之中，莺啼而绿映焉，水村山郭，无处无酒旗，四百八十寺，楼台多在烟雨中也。此诗之意既广，不得专指一处，故总而名曰《江南春》，诗家善立题者也。"
             }
-          ]
+          ],
+          "preface": ""
         }
       },
       "W00561": {
@@ -172887,7 +172906,7 @@
           "reviewedByName": "王也姝(2513815)",
           "reviewedBy": "王也姝(2513815)",
           "reviewedAt": "2026-03-15",
-          "updatedAt": "2026-03-15"
+          "updatedAt": "2026-09-18"
         },
         "content": "静夜四无邻，荒居旧业贫。\n雨中黄叶树，灯下白头人。\n以我独沉久，愧君相见频。\n平生自有分，况是蔡家亲。",
         "annotations": [
@@ -172924,7 +172943,18 @@
             "linkKey": "anno-43-44-mmlwgkk39k6gmh"
           }
         ],
-        "links": [],
+        "links": [
+          {
+            "field": "fields.author",
+            "start": 0,
+            "end": 3,
+            "text": "司空曙",
+            "targetId": "C00147",
+            "targetName": "司空曙",
+            "targetType": "C",
+            "placeholder": false
+          }
+        ],
         "fields": {
           "title": "喜外弟卢纶见宿",
           "otherNames": "",
@@ -242656,7 +242686,7 @@
           "reviewedByName": "施金蕊(2510571)",
           "reviewedBy": "施金蕊(2510571)",
           "reviewedAt": "2026-04-22",
-          "updatedAt": "2026-04-22"
+          "updatedAt": "2026-09-18"
         },
         "content": "竹坞无尘水槛清，相思迢递隔重城。\n秋阴不散霜飞晚，留得枯荷听雨声。",
         "annotations": [
@@ -242725,7 +242755,18 @@
             "linkKey": "anno-27-32-mo8t0aayyclulg"
           }
         ],
-        "links": [],
+        "links": [
+          {
+            "field": "fields.author",
+            "start": 0,
+            "end": 3,
+            "text": "李商隐",
+            "targetId": "C00060",
+            "targetName": "李商隐",
+            "targetType": "C",
+            "placeholder": false
+          }
+        ],
         "fields": {
           "title": "宿骆氏亭寄怀崔雍崔衮",
           "otherNames": "",
@@ -288563,7 +288604,7 @@
           "reviewedByName": "王也姝(2513815)",
           "reviewedBy": "王也姝(2513815)",
           "reviewedAt": "2026-06-08",
-          "updatedAt": "2026-06-08"
+          "updatedAt": "2026-09-18"
         },
         "content": "纷纷红紫已成尘，布谷声中夏令新。夹路桑麻行不尽，始知身是太平人。",
         "annotations": [
@@ -288584,7 +288625,18 @@
             "linkKey": "anno-12-14-mq3akwrafudpts"
           }
         ],
-        "links": [],
+        "links": [
+          {
+            "field": "fields.author",
+            "start": 0,
+            "end": 2,
+            "text": "陆游",
+            "targetId": "C00022",
+            "targetName": "陆游",
+            "targetType": "C",
+            "placeholder": false
+          }
+        ],
         "fields": {
           "title": "初夏绝句",
           "otherNames": "无",
@@ -319223,11 +319275,52 @@
           "reviewedByName": "陈思润(2510572)",
           "reviewedBy": "陈思润(2510572)",
           "reviewedAt": "2026-06-02",
-          "updatedAt": "2026-06-02"
+          "updatedAt": "2026-09-16"
         },
         "content": "",
         "annotations": [],
-        "links": [],
+        "links": [
+          {
+            "field": "fields.anthos",
+            "start": 0,
+            "end": 5,
+            "text": "《阳春集》",
+            "targetId": "G00015",
+            "targetName": "阳春集",
+            "targetType": "G",
+            "placeholder": false
+          },
+          {
+            "field": "fields.relations[2].人物",
+            "start": 5,
+            "end": 7,
+            "text": "李璟",
+            "targetId": "C00197",
+            "targetName": "李璟",
+            "targetType": "C",
+            "placeholder": false
+          },
+          {
+            "field": "fields.repWorks",
+            "start": 6,
+            "end": 15,
+            "text": "《长命女·春日宴》",
+            "targetId": "W01850",
+            "targetName": "长命女·春日宴",
+            "targetType": "W",
+            "placeholder": false
+          },
+          {
+            "field": "fields.repWorks",
+            "start": 16,
+            "end": 21,
+            "text": "《鹊踏枝》",
+            "targetId": "W01336",
+            "targetName": "鹊踏枝·谁道闲情抛掷久",
+            "targetType": "W",
+            "placeholder": false
+          }
+        ],
         "fields": {
           "common": "冯延巳",
           "name": "冯延巳",
@@ -328537,7 +328630,7 @@
     }
   },
   "E": {
-    "lastId": 432,
+    "lastId": 434,
     "items": {
       "E00001": {
         "id": "E00001",
@@ -359750,11 +359843,92 @@
           "reviewedByName": "申允(2511017)",
           "reviewedBy": "申允(2511017)",
           "reviewedAt": "2026-06-09",
-          "updatedAt": "2026-06-09"
+          "updatedAt": "2026-09-17"
         },
         "content": "",
         "annotations": [],
-        "links": [],
+        "links": [
+          {
+            "field": "fields.examples[0].出处",
+            "start": 0,
+            "end": 3,
+            "text": "刘禹锡",
+            "targetId": "C00119",
+            "targetName": "刘禹锡",
+            "targetType": "C",
+            "placeholder": false
+          },
+          {
+            "field": "fields.examples[0].出处",
+            "start": 3,
+            "end": 13,
+            "text": "《金陵五题·乌衣巷》",
+            "targetId": "W00475",
+            "targetName": "乌衣巷",
+            "targetType": "W",
+            "placeholder": false
+          },
+          {
+            "field": "fields.examples[1].出处",
+            "start": 0,
+            "end": 3,
+            "text": "刘禹锡",
+            "targetId": "C00119",
+            "targetName": "刘禹锡",
+            "targetType": "C",
+            "placeholder": false
+          },
+          {
+            "field": "fields.examples[2].出处",
+            "start": 0,
+            "end": 3,
+            "text": "刘禹锡",
+            "targetId": "C00119",
+            "targetName": "刘禹锡",
+            "targetType": "C",
+            "placeholder": false
+          },
+          {
+            "field": "fields.examples[2].出处",
+            "start": 3,
+            "end": 13,
+            "text": "《金陵五题·乌衣巷》",
+            "targetId": "W00475",
+            "targetName": "乌衣巷",
+            "targetType": "W",
+            "placeholder": false
+          },
+          {
+            "field": "fields.examples[4].出处",
+            "start": 0,
+            "end": 2,
+            "text": "杜甫",
+            "targetId": "C00006",
+            "targetName": "杜甫",
+            "targetType": "C",
+            "placeholder": false
+          },
+          {
+            "field": "fields.examples[5].出处",
+            "start": 0,
+            "end": 2,
+            "text": "杜甫",
+            "targetId": "C00006",
+            "targetName": "杜甫",
+            "targetType": "C",
+            "placeholder": false
+          },
+          {
+            "field": "fields.examples[8].出处",
+            "start": 0,
+            "end": 3,
+            "text": "陆龟蒙",
+            "targetId": "C00114",
+            "targetName": "陆龟蒙",
+            "targetType": "C",
+            "placeholder": false
+          }
+        ],
         "fields": {
           "statement": "王谢",
           "otherStatement": "王谢风流",
@@ -359809,6 +359983,100 @@
           "explanation": "本指东晋南朝金陵两大顶级门阀琅琊王氏与陈郡谢氏，后用以代指门第高华的世家大族、昔日豪门盛迹，或借以寄寓王朝更迭、门阀零落的兴亡之叹。",
           "usage": "名词，在句中多作主语或宾语，用于咏史怀古、谈门第风流与家族盛衰的语境，感情色彩为偏怅惘的雅叹。",
           "origin": "《世说新语笺疏》中卷上：\n有往来者云：庾公有东下意。或谓王公：“可潜稍严，以备不虞。”王公曰：“我与元规虽俱王臣，本怀布衣之好。若其欲来，吾角巾径还乌衣，何所稍严。”"
+        }
+      },
+      "E00433": {
+        "id": "E00433",
+        "type": "E",
+        "name": "鹓雏",
+        "meta": {
+          "createdById": "u_118",
+          "createdByName": "庄韶凯(2314255)",
+          "createdBy": "庄韶凯(2314255)",
+          "createdAt": "2026-09-16",
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-16",
+          "updatedAt": "2026-09-16"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "statement": "鹓雏",
+          "otherStatement": "鵷鶵",
+          "persons": [],
+          "examples": [
+            {
+              "出处": "李商隐《安定城楼》",
+              "内容": "不知腐鼠成滋味，猜意鹓雏竟未休。"
+            },
+            {
+              "出处": "元好问《南冠行》",
+              "内容": "王孙上客生光辉，竹花不实鹓雏饥。"
+            }
+          ]
+        },
+        "extra": {
+          "reviewDuration": "1",
+          "reviewStatus": "approved",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "explanation": "中国古代神话传说中与凤凰、鸾鸟同属的神鸟，位列五凤之一，特征为多黄色羽毛。",
+          "usage": "传说中，鹓雏习性高洁，“非梧桐不止，非练实不食，非醴泉不饮”，体现其对环境与食物的严格选择，在历代文献中持续作为贤才与高洁志向的固定隐喻。",
+          "origin": "其名最早见于《山海经·南山经》，记载南禺山有凤凰、鹓雏栖息；《庄子·秋水》以鹓雏“非梧桐不止”的典故，确立其象征高洁之士的文化意象。"
+        }
+      },
+      "E00434": {
+        "id": "E00434",
+        "type": "E",
+        "name": "萼绿华",
+        "meta": {
+          "createdById": "u_118",
+          "createdByName": "庄韶凯(2314255)",
+          "createdBy": "庄韶凯(2314255)",
+          "createdAt": "2026-09-16",
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-16",
+          "updatedAt": "2026-09-16"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "statement": "萼绿华",
+          "otherStatement": "",
+          "persons": [
+            "罗郁"
+          ],
+          "examples": [
+            {
+              "出处": "韦应物《萼绿华歌》",
+              "内容": "有一人兮升紫霞，书名玉牒兮萼绿华。"
+            },
+            {
+              "出处": "李商隐《重过圣女祠》",
+              "内容": "萼绿华来无定所，杜兰香去未移时。"
+            },
+            {
+              "出处": "李清照《晓梦》",
+              "内容": "因缘安期生，邂逅萼绿华。"
+            }
+          ]
+        },
+        "extra": {
+          "reviewDuration": "1",
+          "reviewStatus": "approved",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "explanation": "萼绿华为道教传说中的女仙，最早见于南朝梁陶弘景《真诰》。晋代文献记载其自称九嶷山得道女子罗郁，于晋穆帝升平三年夜降羊权家传授修道要义。据《太平广记》所述，她身着青衣容貌绝俗，一月内六次造访羊权住所，赠予火浣布巾等仙物，强调修道需超脱世俗名利践行清静无为，并自述因前世罪愆暂谪人间。",
+          "usage": "自唐代起，萼绿华形象进入文学领域，成为指代仙女、美女或梅花的经典典故。",
+          "origin": "萼绿华最初形象见于南朝梁陶弘景《真诰》，记载其为一位独立女仙，于晋穆帝升平三年夜降羊权家，并自称“九嶷山中得道女罗郁”。"
         }
       }
     }
@@ -370353,7 +370621,7 @@
     }
   },
   "L": {
-    "lastId": 6,
+    "lastId": 8,
     "items": {
       "L00001": {
         "id": "L00001",
@@ -370565,11 +370833,11 @@
           "createdByName": "杨烨亭(2511420)",
           "createdBy": "杨烨亭(2511420)",
           "createdAt": "2026-09-10",
-          "reviewedById": "",
-          "reviewedByName": "",
-          "reviewedBy": "",
-          "reviewedAt": "",
-          "updatedAt": "2026-09-11"
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-17",
+          "updatedAt": "2026-09-17"
         },
         "content": "",
         "annotations": [],
@@ -370581,8 +370849,8 @@
           "rhymeBook": "pingshui"
         },
         "extra": {
-          "reviewDuration": "",
-          "reviewStatus": "pending",
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
           "expectedDuration": "",
           "repairStatus": "unfinished",
           "remark": "",
@@ -370603,11 +370871,11 @@
           "createdByName": "杨烨亭(2511420)",
           "createdBy": "杨烨亭(2511420)",
           "createdAt": "2026-09-11",
-          "reviewedById": "",
-          "reviewedByName": "",
-          "reviewedBy": "",
-          "reviewedAt": "",
-          "updatedAt": "2026-09-11"
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-17",
+          "updatedAt": "2026-09-17"
         },
         "content": "",
         "annotations": [],
@@ -370619,8 +370887,8 @@
           "rhymeBook": "pingshui"
         },
         "extra": {
-          "reviewDuration": "",
-          "reviewStatus": "pending",
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
           "expectedDuration": "",
           "repairStatus": "unfinished",
           "remark": "",
@@ -370641,11 +370909,11 @@
           "createdByName": "杨烨亭(2511420)",
           "createdBy": "杨烨亭(2511420)",
           "createdAt": "2026-09-12",
-          "reviewedById": "",
-          "reviewedByName": "",
-          "reviewedBy": "",
-          "reviewedAt": "",
-          "updatedAt": "2026-09-12"
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-17",
+          "updatedAt": "2026-09-17"
         },
         "content": "",
         "annotations": [],
@@ -370657,8 +370925,8 @@
           "rhymeBook": "pingshui"
         },
         "extra": {
-          "reviewDuration": "",
-          "reviewStatus": "pending",
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
           "expectedDuration": "",
           "repairStatus": "unfinished",
           "remark": "",
@@ -370679,11 +370947,11 @@
           "createdByName": "杨烨亭(2511420)",
           "createdBy": "杨烨亭(2511420)",
           "createdAt": "2026-09-13",
-          "reviewedById": "",
-          "reviewedByName": "",
-          "reviewedBy": "",
-          "reviewedAt": "",
-          "updatedAt": "2026-09-13"
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-17",
+          "updatedAt": "2026-09-17"
         },
         "content": "",
         "annotations": [],
@@ -370695,8 +370963,8 @@
           "rhymeBook": "pingshui"
         },
         "extra": {
-          "reviewDuration": "",
-          "reviewStatus": "pending",
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
           "expectedDuration": "",
           "repairStatus": "unfinished",
           "remark": "",
@@ -370704,8 +370972,7 @@
             "枝肢移（竹移）为（施为）垂吹陂碑奇宜仪皮儿离施知驰池规危夷师姿迟龟眉悲之芝时诗棋旗辞词期祠基疑姬丝司葵医帷思滋持随痴维。"
           ],
           "rareChars": [
-            "卮麋螭麾墀弥慈遗肌脂雌披嬉尸狸炊湄篱兹差（参差）疲茨卑亏蕤骑（跨马）歧岐谁斯澌私窥熙欺疵赀羁迤彝髭颐资糜饥衰锥姨夔祗涯（佳、麻韵同）伊追蓍缁萁箕椎罴篪萎匙脾坻嶷治（治国）骊綦怡尼漪牺饴而鸱推（灰韵同）陲魑锤缡璃羸帔蘼芪畸羲曦欹猗崎崖筛狮蛳绥虽粢瓷嫠痍惟唯机耆逵岿丕毗枇貔楣霉辎蚩嗤媸飔埘莳鲥鹚笞漓贻禧噫其琪祺麒栀鹂累踟琵祁骐訾咨睢馗胝鳍迤蛇（委蛇）陴淇丽（地名）厮氏（月氏）僖嘻琦怩熹孜罹磁痿隋逶郦嵋椅（音漪",
-            "木名）。"
+            "卮麋螭麾墀弥慈遗肌脂雌披嬉尸狸炊湄篱兹差（参差）疲茨卑亏蕤骑（跨马）歧岐谁斯澌私窥熙欺疵赀羁迤彝髭颐资糜饥衰锥姨夔祗涯（佳、麻韵同）伊追蓍缁萁箕椎罴篪萎匙脾坻嶷治（治国）骊綦怡尼漪牺饴而鸱推（灰韵同）陲魑锤缡璃羸帔蘼芪畸羲曦欹猗崎崖筛狮蛳绥虽粢瓷嫠痍惟唯机耆逵岿丕毗枇貔楣霉辎蚩嗤媸飔埘莳鲥鹚笞漓贻禧噫其琪祺麒栀鹂累踟琵祁骐訾咨睢馗胝鳍迤蛇（委蛇）陴淇丽（地名）厮氏（月氏）僖嘻琦怩熹孜罹磁痿隋逶郦嵋椅（音漪木名）。"
           ]
         }
       },
@@ -370718,11 +370985,11 @@
           "createdByName": "杨烨亭(2511420)",
           "createdBy": "杨烨亭(2511420)",
           "createdAt": "2026-09-14",
-          "reviewedById": "",
-          "reviewedByName": "",
-          "reviewedBy": "",
-          "reviewedAt": "",
-          "updatedAt": "2026-09-14"
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-17",
+          "updatedAt": "2026-09-17"
         },
         "content": "",
         "annotations": [],
@@ -370734,8 +371001,8 @@
           "rhymeBook": "pingshui"
         },
         "extra": {
-          "reviewDuration": "",
-          "reviewStatus": "pending",
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
           "expectedDuration": "",
           "repairStatus": "unfinished",
           "remark": "",
@@ -370744,6 +371011,82 @@
           ],
           "rareChars": [
             "矶欷诽绯晞葳巍沂圻颀。"
+          ]
+        }
+      },
+      "L00007": {
+        "id": "L00007",
+        "type": "L",
+        "name": "上平六鱼",
+        "meta": {
+          "createdById": "u_12",
+          "createdByName": "杨烨亭(2511420)",
+          "createdBy": "杨烨亭(2511420)",
+          "createdAt": "2026-09-16",
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-17",
+          "updatedAt": "2026-09-17"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "sub": "yunbu",
+          "subLabel": "韵部",
+          "title": "上平六鱼",
+          "rhymeBook": "pingshui"
+        },
+        "extra": {
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "commonChars": [
+            "鱼渔初书舒居裾琚车（麻韵同）渠蕖余予（我也）誉（动词）舆胥狙锄疏蔬梳虚嘘墟徐猪闾庐。"
+          ],
+          "rareChars": [
+            "驴诸储除滁蜍如畲淤妤苴菹沮龉茹榈於祛蘧疽蛆醵纾樗躇（药韵同）欤据（拮据）。"
+          ]
+        }
+      },
+      "L00008": {
+        "id": "L00008",
+        "type": "L",
+        "name": "上平七虞",
+        "meta": {
+          "createdById": "u_12",
+          "createdByName": "杨烨亭(2511420)",
+          "createdBy": "杨烨亭(2511420)",
+          "createdAt": "2026-09-18",
+          "reviewedById": "",
+          "reviewedByName": "",
+          "reviewedBy": "",
+          "reviewedAt": "",
+          "updatedAt": "2026-09-18"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "sub": "yunbu",
+          "subLabel": "韵部",
+          "title": "上平七虞",
+          "rhymeBook": "pingshui"
+        },
+        "extra": {
+          "reviewDuration": "",
+          "reviewStatus": "pending",
+          "expectedDuration": "1",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "commonChars": [
+            "虞愚娱隅无芜巫于衢癯瞿氍儒襦濡须需朱珠株诛朱铢蛛殊俞瑜榆愉逾渝窬谀腴区躯驱岖趋扶符凫芙雏敷麸夫肤徂纡输枢厨俱驹模谟摹蒲逋胡湖瑚乎壶狐弧孤辜姑觚菰徒途涂荼图屠奴吾。"
+          ],
+          "rareChars": [
+            "梧吴租卢鲈炉芦颅垆蚨孥帑苏酥乌污（污秽）枯粗都茱侏姝禺拘嵎蹰桴俘臾萸吁滹瓠糊醐呼沽酤泸舻轳鸬驽匍葡铺（铺盖）菟诬呜迂盂竽趺毋孺酴鸪骷刳蛄晡蒱葫呱蝴劬殂猢郛孚。"
           ]
         }
       }

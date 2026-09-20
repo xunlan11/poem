@@ -1110,16 +1110,6 @@
     "profile_completed": true
   },
   {
-    "id": "u_113",
-    "username": "12345",
-    "password_hash": "$2a$10$HfW3BFGycM.YyRlRhLC7m.X3JUgoxgCAsHmSjPBH46Pw/hMAnwxzm",
-    "role": "reviewer",
-    "real_name": "庄韶凯",
-    "student_id": "2314255",
-    "created_at": "2026-09-09T04:00:49.331Z",
-    "profile_completed": true
-  },
-  {
     "id": "u_114",
     "username": "沈雨橦",
     "password_hash": "$2a$10$2hO891/Rra3aDa9hv.x6M.c6GiII5O7aczVMXjwH8QnuZLD.G/naC",
@@ -1167,6 +1157,26 @@
     "real_name": "张梦瑶",
     "student_id": "2511669",
     "created_at": "2026-09-13T05:24:55.981Z",
+    "profile_completed": true
+  },
+  {
+    "id": "u_118",
+    "username": "庄韶凯",
+    "password_hash": "$2a$10$IkjR9eqFcYf4jkMi5TvQB./qymHT5Ey/dWCtlur.yUs3VX8HI6Snq",
+    "role": "reviewer",
+    "real_name": "庄韶凯",
+    "student_id": "2314255",
+    "created_at": "2026-09-16T08:14:52.707Z",
+    "profile_completed": true
+  },
+  {
+    "id": "u_113",
+    "username": "shenhe",
+    "password_hash": "$2a$10$6rVxVoD06D/yjiGQRKfaiu.WTT8fOz3KXtxnJI2HrI21Qg6vkxK4q",
+    "role": "reviewer",
+    "real_name": "审核大大",
+    "student_id": "❛˓◞˂̵✧",
+    "created_at": "2026-09-16T09:05:24.200Z",
     "profile_completed": true
   }
 ]
