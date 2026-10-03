@@ -191,7 +191,6 @@
         const ey = (y.a.end | 0);
         return ex - ey;
       });
-      const total = annotated.length;
       const renderList = annotated;
       annoArea.textContent = '';
       annoArea.style.display = '';
@@ -896,7 +895,6 @@
       try {
         const adjust = () => {
           try {
-            const cs = windowRef.getComputedStyle ? windowRef.getComputedStyle(leftTop) : null;
             const raw = leftTop.scrollHeight + 2;
             const cap = (windowRef.innerHeight || 800);
             const desired = Math.min(raw, cap);

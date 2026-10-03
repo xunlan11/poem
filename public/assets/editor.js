@@ -1142,7 +1142,6 @@
         try {
           const collected = renderer?.collect?.() || {};
           const prevMeta = { ...(state.node.meta || {}) };
-          const prevExtra = { ...(state.node.extra || {}) };
           try { commonMetaToNode(state.node); } catch (e) { }
           const hasPrevReviewer = !!(prevMeta.reviewedBy || prevMeta.reviewedAt);
           const reviewerChanged = (state.node.meta?.reviewedBy || '') !== (prevMeta.reviewedBy || '')

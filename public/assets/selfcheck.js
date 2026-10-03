@@ -728,14 +728,11 @@
       return closeIdx !== -1;
     }
     // 书名号检查
-    function ensureBookTitleBrackets(el, labelOverride) {
+    function ensureBookTitleBrackets(el) {
       if (!el || typeof el.value !== 'string') return 0;
       const value = el.value.trim();
       if (!value) return 0;
       if (hasBookTitlePair(value)) return 0;
-      const label = labelOverride || getFieldLabel(el) || '';
-      const labelText = label ? `“${label}”` : '该字段';
-      const excerpt = value.length > 80 ? `${value.slice(0, 80)}…` : value;
       const detail = `<div class="self-check-detail-block ${SELF_CHECK_MESSAGE_CLASS} self-check-booktitle"><div class="self-check-inline-note">请使用《》标识作品。</div></div>`;
       queueSelfCheckMessage(el, 'manual', { category: '书名号', count: 1, detail });
       el.classList.add(SELF_CHECK_FIELD_CLASS);
