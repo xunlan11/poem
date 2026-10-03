@@ -320913,11 +320913,32 @@
           "reviewedByName": "申允(2511017)",
           "reviewedBy": "申允(2511017)",
           "reviewedAt": "2026-06-09",
-          "updatedAt": "2026-06-09"
+          "updatedAt": "2026-09-23"
         },
         "content": "",
         "annotations": [],
-        "links": [],
+        "links": [
+          {
+            "field": "fields.joint[0].其他人物",
+            "start": 0,
+            "end": 3,
+            "text": "张若虚",
+            "targetId": "C00094",
+            "targetName": "张若虚",
+            "targetType": "C",
+            "placeholder": false
+          },
+          {
+            "field": "fields.joint[1].其他人物",
+            "start": 0,
+            "end": 2,
+            "text": "李白",
+            "targetId": "C00001",
+            "targetName": "李白",
+            "targetType": "C",
+            "placeholder": false
+          }
+        ],
         "fields": {
           "common": "贺知章",
           "name": "贺知章",
@@ -370621,7 +370642,7 @@
     }
   },
   "L": {
-    "lastId": 8,
+    "lastId": 12,
     "items": {
       "L00001": {
         "id": "L00001",
@@ -371061,11 +371082,11 @@
           "createdByName": "杨烨亭(2511420)",
           "createdBy": "杨烨亭(2511420)",
           "createdAt": "2026-09-18",
-          "reviewedById": "",
-          "reviewedByName": "",
-          "reviewedBy": "",
-          "reviewedAt": "",
-          "updatedAt": "2026-09-18"
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-23",
+          "updatedAt": "2026-09-23"
         },
         "content": "",
         "annotations": [],
@@ -371077,8 +371098,8 @@
           "rhymeBook": "pingshui"
         },
         "extra": {
-          "reviewDuration": "",
-          "reviewStatus": "pending",
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
           "expectedDuration": "1",
           "repairStatus": "unfinished",
           "remark": "",
@@ -371087,6 +371108,158 @@
           ],
           "rareChars": [
             "梧吴租卢鲈炉芦颅垆蚨孥帑苏酥乌污（污秽）枯粗都茱侏姝禺拘嵎蹰桴俘臾萸吁滹瓠糊醐呼沽酤泸舻轳鸬驽匍葡铺（铺盖）菟诬呜迂盂竽趺毋孺酴鸪骷刳蛄晡蒱葫呱蝴劬殂猢郛孚。"
+          ]
+        }
+      },
+      "L00009": {
+        "id": "L00009",
+        "type": "L",
+        "name": "上平八齐",
+        "meta": {
+          "createdById": "u_12",
+          "createdByName": "杨烨亭(2511420)",
+          "createdBy": "杨烨亭(2511420)",
+          "createdAt": "2026-09-21",
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-23",
+          "updatedAt": "2026-09-23"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "sub": "yunbu",
+          "subLabel": "韵部",
+          "title": "上平八齐",
+          "rhymeBook": "pingshui"
+        },
+        "extra": {
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "commonChars": [
+            "齐黎犁梨妻（夫妻）萋凄堤低题提蹄啼鸡稽兮倪霓西栖犀嘶撕梯鼙赍迷泥溪蹊圭闺携畦嵇跻奚。"
+          ],
+          "rareChars": [
+            "脐醯黧蠡醍鹈奎批砒睽荑篦齑藜猊蜺鲵羝。"
+          ]
+        }
+      },
+      "L00010": {
+        "id": "L00010",
+        "type": "L",
+        "name": "上平九佳",
+        "meta": {
+          "createdById": "u_12",
+          "createdByName": "杨烨亭(2511420)",
+          "createdBy": "杨烨亭(2511420)",
+          "createdAt": "2026-09-21",
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-23",
+          "updatedAt": "2026-09-23"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "sub": "yunbu",
+          "subLabel": "韵部",
+          "title": "上平九佳",
+          "rhymeBook": "pingshui"
+        },
+        "extra": {
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "commonChars": [
+            "佳街鞋牌柴钗差（差使）崖涯（支麻韵同）偕阶皆谐骸排乖怀淮。"
+          ],
+          "rareChars": [
+            "豺侪埋霾斋槐（灰韵同）睚崽楷秸揩挨俳。"
+          ]
+        }
+      },
+      "L00011": {
+        "id": "L00011",
+        "type": "L",
+        "name": "上平十灰",
+        "meta": {
+          "createdById": "u_12",
+          "createdByName": "杨烨亭(2511420)",
+          "createdBy": "杨烨亭(2511420)",
+          "createdAt": "2026-09-22",
+          "reviewedById": "u_113",
+          "reviewedByName": "审核大大(❛˓◞˂̵✧)",
+          "reviewedBy": "审核大大(❛˓◞˂̵✧)",
+          "reviewedAt": "2026-09-23",
+          "updatedAt": "2026-09-23"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "sub": "yunbu",
+          "subLabel": "韵部",
+          "title": "上平十灰",
+          "rhymeBook": "pingshui"
+        },
+        "extra": {
+          "reviewDuration": "1",
+          "reviewStatus": "archived",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "commonChars": [
+            "灰恢魁隈回徊槐（佳韵同）梅枚玫媒煤雷颓崔催摧堆陪杯醅嵬推（支韵同）诙裴培盔偎煨。"
+          ],
+          "rareChars": [
+            "瑰茴胚徘坯桅傀儡（贿韵同）莓开哀埃台苔抬该才材财裁栽哉来莱灾猜孩徕骀胎唉垓挨皑呆腮。"
+          ]
+        }
+      },
+      "L00012": {
+        "id": "L00012",
+        "type": "L",
+        "name": "上平十一真",
+        "meta": {
+          "createdById": "u_12",
+          "createdByName": "杨烨亭(2511420)",
+          "createdBy": "杨烨亭(2511420)",
+          "createdAt": "2026-09-24",
+          "reviewedById": "",
+          "reviewedByName": "",
+          "reviewedBy": "",
+          "reviewedAt": "",
+          "updatedAt": "2026-09-24"
+        },
+        "content": "",
+        "annotations": [],
+        "links": [],
+        "fields": {
+          "sub": "yunbu",
+          "subLabel": "韵部",
+          "title": "上平十一真",
+          "rhymeBook": "pingshui"
+        },
+        "extra": {
+          "reviewDuration": "",
+          "reviewStatus": "pending",
+          "expectedDuration": "",
+          "repairStatus": "unfinished",
+          "remark": "",
+          "commonChars": [
+            "真因茵辛新薪晨辰臣人仁神亲申身宾滨槟缤邻鳞麟珍瞋尘陈春津秦频苹颦濒银垠筠巾囷民岷泯（轸韵同）珉贫。"
+          ],
+          "rareChars": [
+            "莼淳醇纯唇伦轮沦抡匀旬巡驯钧均榛莘遵循甄宸纶椿鹑屯呻粼嶙辚磷呻伸绅寅姻荀询峋氤恂嫔彬皴娠闽纫湮肫逡菌臻豳。"
           ]
         }
       }
